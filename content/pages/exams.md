@@ -120,7 +120,7 @@ PRACTICE EXAMS
 
 [2003 Practice Exam 1 (PDF)]({{< baseurl >}}/resources/mit8_044s14_practexam1_03)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2003 Practice Exam 1 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_praexam1sol_03)
+[2003 Practice Exam 1 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_praexam1sol_03)
 
 
 {{< tdclose >}}
@@ -129,7 +129,7 @@ PRACTICE EXAMS
 
 [2003 Exam 1 (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam1_03)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2003 Exam 1 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam1sol_03)
+[2003 Exam 1 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam1sol_03)
 
 
 {{< tdclose >}}
@@ -138,7 +138,7 @@ PRACTICE EXAMS
 
 [2004 Exam 1 (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam1_04)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2004 Exam 1 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam1sol_04)
+[2004 Exam 1 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam1sol_04)
 
 
 {{< tdclose >}}
@@ -153,7 +153,7 @@ PRACTICE EXAMS
 
 [2003 Practice Exam 2 (PDF)]({{< baseurl >}}/resources/mit8_044s14_practexam2_03)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2003 Practice Exam 2 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_praexam2sol_03)
+[2003 Practice Exam 2 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_praexam2sol_03)
 
 
 {{< tdclose >}}
@@ -162,7 +162,7 @@ PRACTICE EXAMS
 
 [2003 Exam 2 (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam2_03)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2003 Exam 2 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam2sol_03)
+[2003 Exam 2 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam2sol_03)
 
 
 {{< tdclose >}}
@@ -171,7 +171,7 @@ PRACTICE EXAMS
 
 [2004 Exam 2 (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam2_04)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2004 Exam 2 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam2sol_04)
+[2004 Exam 2 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam2sol_04)
 
 
 {{< tdclose >}}
@@ -186,7 +186,7 @@ PRACTICE EXAMS
 
 [2003 Practice Exam 3 (PDF)]({{< baseurl >}}/resources/mit8_044s14_practexam3_03)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2003 Practice Exam 3 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_praexam3sol_03)
+[2003 Practice Exam 3 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_praexam3sol_03)
 
 
 {{< tdclose >}}
@@ -195,7 +195,7 @@ PRACTICE EXAMS
 
 [2003 Exam 3 (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam3_03)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2003 Exam 3 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam3sol_03)
+[2003 Exam 3 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam3sol_03)
 
 
 {{< tdclose >}}
@@ -204,7 +204,7 @@ PRACTICE EXAMS
 
 [2004 Exam 3 (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam3_04)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2004 Exam 3 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam3sol_04)
+[2004 Exam 3 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam3sol_04)
 
 
 {{< tdclose >}}
@@ -219,7 +219,7 @@ PRACTICE EXAMS
 
 [2003 Practice Exam 4 (PDF)]({{< baseurl >}}/resources/mit8_044s14_practexam4_03)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2003 Practice Exam 4 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_praexam4sol_03)
+[2003 Practice Exam 4 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_praexam4sol_03)
 
 
 {{< tdclose >}}
@@ -228,7 +228,7 @@ PRACTICE EXAMS
 
 [2003 Exam 4 (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam4_03)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2003 Exam 4 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam4sol_03)
+[2003 Exam 4 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam4sol_03)
 
 
 {{< tdclose >}}
@@ -237,7 +237,7 @@ PRACTICE EXAMS
 
 [2004 Exam 4 (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam4_04)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2004 Exam 4 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam4sol_04)
+[2004 Exam 4 Solution (PDF)]({{< baseurl >}}/resources/mit8_044s14_exam4sol_04)
 
 
 {{< tdclose >}}

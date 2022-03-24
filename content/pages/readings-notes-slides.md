@@ -348,7 +348,7 @@ No Notes
 No Notes
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 20 (PDF - 6.1MB)]({{< baseurl >}}/resources/mit8_044s13_l20)
+[Lecture 20 (PDF - 6.1MB)]({{< baseurl >}}/resources/mit8_044s13_l20)
 {{< tdclose >}}
 
 {{< trclose >}}
